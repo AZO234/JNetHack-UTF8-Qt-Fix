@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=JNetHack
+GenericName=JNetHack
+GenericName[ja]=JNetHack
+Comment=JNetHack
+Comment[ja]=JNetHack
+Exec=sh -c "$HOME/nh/install/games/jnethack"
+Icon=nethack
+Categories=Game;
+Name[ja]=JNetHack
+
